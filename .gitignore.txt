@@ -1,4 +1,10 @@
-# Compiled class file
+metadata/
+bin/
+tmp/
+temp/
+*.tmp
+*.bak
+*.swp# Compiled class file
 *.class
 
 # Log file
