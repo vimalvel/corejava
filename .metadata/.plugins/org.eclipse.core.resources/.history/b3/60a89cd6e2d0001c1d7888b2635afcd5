@@ -1,0 +1,23 @@
+package com.chainsys.reflection;
+
+public class ListClassMember{
+	public static void main (String args[]) {
+		testA();
+	}
+	
+
+public static void testA()
+{
+	  String s1="Hello";
+	  printClassInfo(s1);
+	  Integer x=200;
+	  printClassInfo(x);
+	  Emp firstEmp=new Emp();
+	  printClassInfo(firstEmp);
+	  Actor hero=new Actor();
+	  printClassInfo(hero);
+			  
+}
+}
+
+	

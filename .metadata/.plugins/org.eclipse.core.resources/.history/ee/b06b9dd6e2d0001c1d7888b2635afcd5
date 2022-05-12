@@ -1,0 +1,12 @@
+package com.chainsys.reflection;
+
+public class ListClassMember{
+	public static void main (String args[]) {
+		testA();
+	}
+	
+
+
+}
+
+	

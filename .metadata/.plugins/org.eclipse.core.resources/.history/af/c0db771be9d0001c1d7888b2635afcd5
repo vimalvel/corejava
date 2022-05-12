@@ -1,0 +1,10 @@
+package com.chainsys.reflection;
+
+public class ConstantsUtil {
+
+	public static String getModifierName(int modifiers, Class<?> forName) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

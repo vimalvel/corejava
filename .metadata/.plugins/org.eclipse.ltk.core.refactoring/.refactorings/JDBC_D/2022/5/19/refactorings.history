@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;ojdbc11.jar&apos; to &apos;lib&apos;" description="Move &apos;ojdbc11.jar&apos; to &apos;lib&apos;" destination="lib" element1="src/com/chainsys/jdbc/ojdbc11.jar" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1651639109132" updateReferences="true"/>
+</session>
